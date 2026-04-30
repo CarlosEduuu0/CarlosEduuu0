@@ -2,8 +2,8 @@
 
 ##  Sobre mim 
 
-- Estudante de Ciência da Computação no [Cesupa](https://www.cesupa.br) 📚
-- Estou buscando aprimorar minhas habilidades na área de Inteligência Artificial e Ciência de Dados
+- Estudante de Ciência da Computação 
+- Estou buscando aprimorar minhas habilidade nas áreas de Inteligência Artificial e Ciência de Dados
 
 ## 💻 Habilidades
 
